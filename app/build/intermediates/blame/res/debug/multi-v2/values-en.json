@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\charl\\AndroidStudioProjects\\Holamundo2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\charl\\AndroidStudioProjects\\Holamundo2\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,57",
+                        "endColumns": "46,46",
+                        "endOffsets": "147,99"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,46",
+                        "endOffsets": "97,144"
+                    }
+                }
+            ]
+        }
+    ]
+}
